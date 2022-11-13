@@ -1,0 +1,4064 @@
+- NET: 0
+( DRIVERPIN_0 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_305 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_305 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_131 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_131 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_857 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_857 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_683 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_683 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_646 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_646 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_727 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_727 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_637 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_637 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_745 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_745 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_743 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_743 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_896 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_896 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_406 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_406 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_433 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_433 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_811 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_811 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_21 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_21 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_657 conn_out )
+;
+- NET: 0
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_657 conn_in )
+( DRIVERPIN_16 conn_out )
+;
+- NET: 1
+( DRIVERPIN_1 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_512 conn_out )
+;
+- NET: 1
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_512 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_763 conn_out )
+;
+- NET: 1
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_763 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_858 conn_out )
+;
+- NET: 1
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_858 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_115 conn_out )
+;
+- NET: 1
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_115 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_528 conn_out )
+;
+- NET: 1
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_528 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_44 conn_out )
+;
+- NET: 1
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_44 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_205 conn_out )
+;
+- NET: 1
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_205 conn_in )
+( DRIVERPIN_17 conn_out )
+;
+- NET: 2
+( DRIVERPIN_2 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_429 conn_out )
+;
+- NET: 2
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_429 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_255 conn_out )
+;
+- NET: 2
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_255 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_110 conn_out )
+;
+- NET: 2
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_110 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_74 conn_out )
+;
+- NET: 2
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_74 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_145 conn_out )
+;
+- NET: 2
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_145 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_557 conn_out )
+;
+- NET: 2
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_557 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_875 conn_out )
+;
+- NET: 2
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_875 conn_in )
+( DRIVERPIN_18 conn_out )
+;
+- NET: 3
+( DRIVERPIN_3 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_891 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_891 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_716 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_716 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_802 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_802 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_581 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_581 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_316 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_316 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_917 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_917 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_111 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_111 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_958 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_958 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_750 conn_out )
+;
+- NET: 3
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_750 conn_in )
+( DRIVERPIN_19 conn_out )
+;
+- NET: 4
+( DRIVERPIN_4 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_384 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_384 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_211 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_211 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_673 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_673 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_426 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_426 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_162 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_162 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_854 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_854 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_158 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_158 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_929 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_929 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_331 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_331 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_357 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_357 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_920 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_920 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_797 conn_out )
+;
+- NET: 4
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_797 conn_in )
+( DRIVERPIN_20 conn_out )
+;
+- NET: 5
+( DRIVERPIN_5 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_266 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_266 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_208 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_208 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_51 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_51 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_696 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_696 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_985 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_985 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_938 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_938 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_998 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_998 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_995 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_995 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_539 conn_out )
+;
+- NET: 5
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_539 conn_in )
+( DRIVERPIN_21 conn_out )
+;
+- NET: 6
+( DRIVERPIN_6 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_93 conn_out )
+;
+- NET: 6
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_93 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_544 conn_out )
+;
+- NET: 6
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_544 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_56 conn_out )
+;
+- NET: 6
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_56 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_321 conn_out )
+;
+- NET: 6
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_321 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_338 conn_out )
+;
+- NET: 6
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_338 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_960 conn_out )
+;
+- NET: 6
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_960 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_345 conn_out )
+;
+- NET: 6
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_345 conn_in )
+( DRIVERPIN_22 conn_out )
+;
+- NET: 7
+( DRIVERPIN_7 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_464 conn_out )
+;
+- NET: 7
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_464 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_212 conn_out )
+;
+- NET: 7
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_212 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_778 conn_out )
+;
+- NET: 7
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_778 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_613 conn_out )
+;
+- NET: 7
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_613 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_318 conn_out )
+;
+- NET: 7
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_318 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_492 conn_out )
+;
+- NET: 7
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_492 conn_in )
+( DRIVERPIN_23 conn_out )
+;
+- NET: 8
+( DRIVERPIN_8 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_608 conn_out )
+;
+- NET: 8
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_608 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_140 conn_out )
+;
+- NET: 8
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_140 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_0 conn_out )
+;
+- NET: 8
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_0 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_748 conn_out )
+;
+- NET: 8
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_748 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_252 conn_out )
+;
+- NET: 8
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_252 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_277 conn_out )
+;
+- NET: 8
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_277 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_665 conn_out )
+;
+- NET: 8
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_665 conn_in )
+( DRIVERPIN_24 conn_out )
+;
+- NET: 9
+( DRIVERPIN_9 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_531 conn_out )
+;
+- NET: 9
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_531 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_19 conn_out )
+;
+- NET: 9
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_19 conn_in )
+( DRIVERPIN_25 conn_out )
+;
+- NET: 10
+( DRIVERPIN_10 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_909 conn_out )
+;
+- NET: 10
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_909 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_323 conn_out )
+;
+- NET: 10
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_323 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_72 conn_out )
+;
+- NET: 10
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_72 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_746 conn_out )
+;
+- NET: 10
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_746 conn_in )
+( DRIVERPIN_26 conn_out )
+;
+- NET: 11
+( DRIVERPIN_11 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_556 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_556 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_196 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_196 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_343 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_343 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_662 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_662 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_459 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_459 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_30 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_30 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_771 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_771 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_165 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_165 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_82 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_82 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_85 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_85 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_149 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_149 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_568 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_568 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_669 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_669 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_470 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_470 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_808 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_808 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_860 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_860 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_956 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_956 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_731 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_731 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_424 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_424 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_834 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_834 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_631 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_631 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_453 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_453 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_629 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_629 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_349 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_349 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_997 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_997 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_615 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_615 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_382 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_382 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_734 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_734 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_68 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_68 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_10 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_10 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_296 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_296 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_120 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_120 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_480 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_480 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_886 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_886 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_755 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_755 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_966 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_966 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_718 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_718 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_800 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_800 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_304 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_304 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_596 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_596 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_940 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_940 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_184 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_184 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_195 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_195 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_754 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_754 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_819 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_819 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_379 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_379 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_893 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_893 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_236 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_236 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_105 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_105 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_113 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_113 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_633 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_633 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_46 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_46 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_386 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_386 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_739 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_739 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_218 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_218 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_428 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_428 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_481 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_481 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_838 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_838 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_249 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_249 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_620 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_620 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_630 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_630 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_417 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_417 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_341 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_341 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_241 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_241 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_554 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_554 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_933 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_933 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_583 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_583 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_649 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_649 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_155 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_155 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_656 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_656 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_623 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_623 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_430 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_430 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_27 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_27 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_565 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_565 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_582 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_582 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_61 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_61 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_199 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_199 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_832 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_832 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_6 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_6 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_273 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_273 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_685 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_685 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_12 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_12 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_861 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_861 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_49 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_49 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_474 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_474 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_151 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_151 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_234 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_234 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_911 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_911 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_783 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_783 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_284 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_284 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_168 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_168 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_45 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_45 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_3 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_3 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_62 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_62 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_367 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_367 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_981 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_981 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_863 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_863 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_403 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_403 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_534 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_534 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_245 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_245 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_291 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_291 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_640 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_640 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_66 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_66 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_954 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_954 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_513 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_513 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_147 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_147 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_262 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_262 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_134 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_134 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_24 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_24 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_17 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_17 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_847 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_847 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_522 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_522 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_307 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_307 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_188 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_188 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_914 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_914 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_415 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_415 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_698 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_698 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_421 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_421 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_918 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_918 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_521 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_521 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_535 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_535 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_399 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_399 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_990 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_990 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_837 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_837 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_355 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_355 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_947 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_947 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_448 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_448 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_161 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_161 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_895 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_895 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_862 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_862 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_423 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_423 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_57 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_57 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_641 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_641 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_941 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_941 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_278 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_278 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_18 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_18 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_138 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_138 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_545 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_545 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_23 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_23 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_491 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_491 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_879 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_879 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_301 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_301 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_154 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_154 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_775 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_775 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_714 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_714 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_830 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_830 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_350 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_350 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_645 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_645 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_91 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_91 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_898 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_898 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_758 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_758 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_362 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_362 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_503 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_503 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_216 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_216 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_219 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_219 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_905 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_905 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_782 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_782 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_999 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_999 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_405 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_405 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_839 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_839 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_560 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_560 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_952 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_952 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_317 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_317 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_912 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_912 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_508 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_508 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_680 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_680 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_733 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_733 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_571 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_571 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_109 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_109 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_840 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_840 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_336 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_336 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_661 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_661 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_457 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_457 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_654 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_654 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_681 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_681 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_402 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_402 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_40 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_40 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_450 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_450 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_173 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_173 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_740 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_740 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_268 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_268 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_769 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_769 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_42 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_42 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_171 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_171 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_807 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_807 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_903 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_903 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_159 conn_out )
+;
+- NET: 11
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_159 conn_in )
+( DRIVERPIN_27 conn_out )
+;
+- NET: 12
+( DRIVERPIN_12 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_166 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_166 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_256 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_256 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_463 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_463 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_530 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_530 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_404 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_404 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_910 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_910 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_500 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_500 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_916 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_916 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_332 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_332 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_589 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_589 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_143 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_143 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_951 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_951 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_288 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_288 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_887 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_887 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_684 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_684 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_226 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_226 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_240 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_240 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_610 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_610 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_635 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_635 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_855 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_855 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_414 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_414 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_679 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_679 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_230 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_230 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_841 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_841 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_595 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_595 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_506 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_506 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_821 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_821 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_803 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_803 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_239 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_239 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_314 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_314 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_856 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_856 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_358 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_358 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_936 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_936 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_540 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_540 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_882 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_882 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_163 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_163 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_224 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_224 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_393 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_393 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_505 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_505 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_848 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_848 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_946 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_946 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_449 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_449 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_197 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_197 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_133 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_133 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_292 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_292 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_342 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_342 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_871 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_871 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_84 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_84 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_878 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_878 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_614 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_614 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_118 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_118 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_611 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_611 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_294 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_294 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_243 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_243 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_70 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_70 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_616 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_616 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_710 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_710 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_824 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_824 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_612 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_612 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_1 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_1 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_908 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_908 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_563 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_563 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_96 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_96 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_228 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_228 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_752 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_752 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_902 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_902 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_15 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_15 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_157 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_157 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_873 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_873 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_945 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_945 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_461 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_461 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_265 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_265 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_485 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_485 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_937 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_937 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_473 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_473 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_176 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_176 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_416 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_416 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_178 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_178 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_310 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_310 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_410 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_410 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_709 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_709 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_436 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_436 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_180 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_180 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_984 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_984 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_263 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_263 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_498 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_498 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_799 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_799 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_793 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_793 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_34 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_34 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_845 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_845 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_41 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_41 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_191 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_191 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_915 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_915 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_541 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_541 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_86 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_86 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_31 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_31 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_127 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_127 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_736 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_736 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_672 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_672 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_742 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_742 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_100 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_100 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_122 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_122 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_437 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_437 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_823 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_823 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_904 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_904 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_326 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_326 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_207 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_207 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_987 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_987 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_193 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_193 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_493 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_493 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_251 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_251 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_536 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_536 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_592 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_592 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_921 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_921 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_925 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_925 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_467 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_467 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_829 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_829 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_625 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_625 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_112 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_112 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_25 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_25 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_282 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_282 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_246 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_246 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_967 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_967 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_798 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_798 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_715 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_715 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_462 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_462 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_900 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_900 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_651 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_651 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_609 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_609 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_767 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_767 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_352 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_352 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_313 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_313 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_285 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_285 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_32 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_32 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_825 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_825 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_495 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_495 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_368 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_368 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_411 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_411 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_64 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_64 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_786 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_786 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_789 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_789 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_600 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_600 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_569 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_569 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_144 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_144 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_7 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_7 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_643 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_643 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_924 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_924 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_271 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_271 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_353 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_353 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_214 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_214 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_183 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_183 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_866 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_866 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_14 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_14 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_591 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_591 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_760 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_760 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_850 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_850 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_101 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_101 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_527 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_527 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_479 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_479 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_877 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_877 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_913 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_913 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_668 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_668 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_774 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_774 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_726 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_726 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_575 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_575 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_361 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_361 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_54 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_54 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_412 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_412 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_632 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_632 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_242 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_242 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_431 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_431 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_425 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_425 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_833 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_833 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_335 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_335 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_784 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_784 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_136 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_136 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_766 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_766 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_796 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_796 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_588 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_588 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_130 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_130 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_721 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_721 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_374 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_374 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_394 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_394 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_484 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_484 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_894 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_894 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_852 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_852 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_272 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_272 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_870 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_870 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_644 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_644 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_347 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_347 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_446 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_446 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_804 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_804 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_996 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_996 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_375 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_375 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_221 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_221 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_955 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_955 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_741 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_741 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_441 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_441 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_729 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_729 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_584 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_584 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_828 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_828 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_973 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_973 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_192 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_192 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_897 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_897 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_320 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_320 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_747 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_747 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_749 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_749 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_79 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_79 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_791 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_791 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_293 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_293 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_547 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_547 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_327 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_327 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_677 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_677 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_777 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_777 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_950 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_950 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_516 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_516 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_469 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_469 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_901 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_901 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_605 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_605 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_329 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_329 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_499 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_499 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_303 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_303 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_890 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_890 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_388 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_388 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_83 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_83 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_874 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_874 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_458 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_458 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_260 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_260 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_790 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_790 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_225 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_225 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_254 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_254 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_881 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_881 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_517 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_517 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_175 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_175 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_692 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_692 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_359 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_359 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_594 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_594 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_597 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_597 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_693 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_693 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_198 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_198 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_409 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_409 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_667 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_667 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_99 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_99 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_483 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_483 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_389 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_389 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_418 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_418 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_872 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_872 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_928 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_928 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_507 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_507 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_182 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_182 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_923 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_923 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_238 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_238 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_142 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_142 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_586 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_586 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_744 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_744 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_567 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_567 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_39 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_39 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_695 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_695 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_76 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_76 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_827 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_827 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_460 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_460 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_413 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_413 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_52 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_52 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_753 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_753 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_524 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_524 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_319 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_319 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_867 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_867 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_129 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_129 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_443 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_443 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_636 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_636 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_4 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_4 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_422 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_422 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_210 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_210 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_580 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_580 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_655 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_655 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_132 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_132 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_974 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_974 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_258 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_258 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_585 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_585 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_515 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_515 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_579 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_579 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_962 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_962 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_963 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_963 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_334 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_334 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_691 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_691 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_899 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_899 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_542 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_542 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_104 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_104 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_970 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_970 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_438 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_438 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_888 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_888 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_231 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_231 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_986 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_986 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_978 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_978 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_156 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_156 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_604 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_604 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_717 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_717 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_762 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_762 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_466 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_466 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_559 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_559 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_160 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_160 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_264 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_264 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_639 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_639 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_280 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_280 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_340 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_340 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_927 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_927 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_370 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_370 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_167 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_167 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_373 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_373 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_337 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_337 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_708 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_708 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_247 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_247 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_434 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_434 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_135 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_135 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_659 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_659 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_792 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_792 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_889 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_889 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_476 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_476 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_274 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_274 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_253 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_253 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_328 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_328 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_939 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_939 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_764 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_764 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_943 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_943 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_666 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_666 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_757 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_757 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_728 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_728 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_227 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_227 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_26 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_26 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_351 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_351 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_843 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_843 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_190 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_190 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_577 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_577 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_885 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_885 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_172 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_172 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_78 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_78 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_185 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_185 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_435 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_435 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_652 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_652 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_220 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_220 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_275 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_275 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_259 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_259 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_602 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_602 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_16 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_16 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_979 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_979 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_444 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_444 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_773 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_773 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_919 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_919 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_290 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_290 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_88 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_88 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_420 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_420 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_523 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_523 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_785 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_785 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_765 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_765 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_982 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_982 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_814 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_814 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_454 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_454 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_346 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_346 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_455 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_455 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_38 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_38 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_617 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_617 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_831 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_831 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_564 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_564 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_809 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_809 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_701 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_701 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_297 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_297 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_217 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_217 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_477 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_477 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_8 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_8 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_295 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_295 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_504 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_504 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_969 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_969 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_244 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_244 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_299 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_299 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_934 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_934 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_869 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_869 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_114 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_114 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_776 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_776 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_121 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_121 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_281 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_281 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_706 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_706 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_447 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_447 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_510 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_510 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_642 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_642 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_514 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_514 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_787 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_787 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_812 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_812 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_407 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_407 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_75 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_75 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_141 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_141 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_593 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_593 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_712 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_712 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_664 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_664 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_119 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_119 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_59 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_59 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_396 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_396 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_360 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_360 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_806 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_806 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_543 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_543 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_922 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_922 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_674 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_674 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_935 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_935 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_980 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_980 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_92 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_92 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_884 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_884 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_50 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_50 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_813 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_813 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_533 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_533 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_971 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_971 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_546 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_546 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_445 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_445 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_365 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_365 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_835 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_835 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_468 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_468 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_139 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_139 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_181 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_181 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_137 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_137 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_289 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_289 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_737 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_737 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_818 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_818 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_707 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_707 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_621 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_621 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_80 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_80 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_772 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_772 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_587 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_587 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_735 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_735 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_187 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_187 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_678 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_678 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_63 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_63 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_270 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_270 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_853 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_853 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_977 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_977 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_106 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_106 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_723 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_723 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_826 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_826 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_146 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_146 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_686 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_686 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_892 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_892 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_699 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_699 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_653 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_653 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_756 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_756 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_949 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_949 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_60 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_60 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_306 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_306 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_94 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_94 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_22 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_22 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_283 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_283 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_650 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_650 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_555 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_555 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_298 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_298 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_988 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_988 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_55 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_55 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_671 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_671 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_859 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_859 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_439 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_439 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_719 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_719 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_931 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_931 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_67 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_67 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_606 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_606 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_427 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_427 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_322 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_322 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_36 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_36 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_599 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_599 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_475 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_475 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_398 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_398 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_497 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_497 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_233 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_233 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_482 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_482 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_315 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_315 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_203 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_203 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_98 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_98 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_849 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_849 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_65 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_65 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_598 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_598 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_267 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_267 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_526 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_526 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_622 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_622 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_570 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_570 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_9 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_9 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_37 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_37 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_906 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_906 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_330 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_330 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_354 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_354 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_339 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_339 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_687 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_687 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_107 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_107 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_202 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_202 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_822 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_822 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_738 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_738 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_619 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_619 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_124 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_124 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_69 conn_out )
+;
+- NET: 12
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_69 conn_in )
+( DRIVERPIN_28 conn_out )
+;
+- NET: 13
+( DRIVERPIN_13 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_801 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_801 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_123 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_123 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_153 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_153 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_11 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_11 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_401 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_401 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_520 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_520 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_694 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_694 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_627 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_627 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_117 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_117 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_103 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_103 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_390 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_390 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_989 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_989 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_689 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_689 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_378 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_378 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_816 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_816 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_344 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_344 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_2 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_2 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_638 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_638 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_865 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_865 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_883 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_883 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_552 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_552 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_842 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_842 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_47 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_47 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_248 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_248 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_213 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_213 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_876 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_876 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_496 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_496 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_501 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_501 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_380 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_380 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_324 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_324 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_223 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_223 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_618 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_618 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_308 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_308 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_574 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_574 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_561 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_561 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_87 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_87 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_148 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_148 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_704 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_704 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_725 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_725 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_572 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_572 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_369 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_369 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_868 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_868 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_279 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_279 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_944 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_944 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_957 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_957 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_815 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_815 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_194 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_194 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_779 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_779 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_58 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_58 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_511 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_511 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_397 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_397 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_452 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_452 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_781 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_781 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_478 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_478 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_229 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_229 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_724 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_724 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_682 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_682 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_964 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_964 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_442 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_442 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_780 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_780 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_200 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_200 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_150 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_150 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_697 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_697 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_566 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_566 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_451 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_451 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_400 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_400 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_953 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_953 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_732 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_732 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_215 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_215 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_419 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_419 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_658 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_658 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_391 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_391 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_844 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_844 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_381 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_381 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_529 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_529 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_206 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_206 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_97 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_97 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_688 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_688 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_108 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_108 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_836 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_836 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_795 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_795 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_28 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_28 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_90 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_90 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_994 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_994 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_440 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_440 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_713 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_713 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_174 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_174 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_488 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_488 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_576 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_576 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_624 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_624 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_204 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_204 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_377 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_377 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_548 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_548 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_961 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_961 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_486 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_486 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_864 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_864 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_408 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_408 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_366 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_366 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_128 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_128 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_372 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_372 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_164 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_164 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_573 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_573 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_590 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_590 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_550 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_550 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_525 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_525 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_13 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_13 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_286 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_286 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_959 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_959 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_487 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_487 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_363 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_363 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_846 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_846 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_663 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_663 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_209 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_209 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_502 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_502 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_794 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_794 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_851 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_851 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_169 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_169 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_991 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_991 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_33 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_33 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_53 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_53 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_558 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_558 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_768 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_768 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_942 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_942 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_518 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_518 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_817 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_817 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_43 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_43 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_237 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_237 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_759 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_759 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_634 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_634 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_675 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_675 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_720 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_720 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_601 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_601 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_626 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_626 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_73 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_73 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_376 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_376 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_456 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_456 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_932 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_932 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_549 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_549 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_711 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_711 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_186 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_186 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_820 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_820 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_788 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_788 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_170 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_170 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_387 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_387 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_607 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_607 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_95 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_95 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_300 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_300 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_269 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_269 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_553 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_553 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_126 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_126 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_730 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_730 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_983 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_983 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_965 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_965 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_311 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_311 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_670 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_670 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_930 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_930 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_356 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_356 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_250 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_250 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_29 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_29 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_309 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_309 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_562 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_562 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_761 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_761 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_71 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_71 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_628 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_628 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_976 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_976 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_287 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_287 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_472 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_472 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_471 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_471 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_235 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_235 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_705 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_705 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_770 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_770 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_993 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_993 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_177 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_177 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_5 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_5 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_810 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_810 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_975 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_975 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_532 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_532 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_395 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_395 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_465 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_465 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_676 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_676 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_201 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_201 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_509 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_509 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_948 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_948 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_257 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_257 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_647 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_647 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_490 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_490 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_968 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_968 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_603 conn_out )
+;
+- NET: 13
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_603 conn_in )
+( DRIVERPIN_29 conn_out )
+;
+- NET: 14
+( DRIVERPIN_14 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_302 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_302 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_432 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_432 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_232 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_232 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_276 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_276 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_702 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_702 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_385 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_385 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_489 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_489 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_805 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_805 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_89 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_89 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_189 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_189 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_312 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_312 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_907 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_907 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_537 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_537 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_116 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_116 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_703 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_703 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_364 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_364 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_125 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_125 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_551 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_551 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_325 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_325 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_722 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_722 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_77 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_77 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_348 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_348 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_261 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_261 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_880 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_880 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_35 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_35 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_992 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_992 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_751 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_751 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_538 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_538 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_494 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_494 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_179 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_179 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_926 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_926 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_392 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_392 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_333 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_333 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_48 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_48 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_102 conn_out )
+;
+- NET: 14
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_102 conn_in )
+( DRIVERPIN_30 conn_out )
+;
+- NET: 15
+( DRIVERPIN_15 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_222 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_222 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_648 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_648 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_700 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_700 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_371 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_371 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_20 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_20 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_690 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_690 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_660 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_660 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_81 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_81 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_383 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_383 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_152 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_152 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_972 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_972 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_519 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_519 conn_in )
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_578 conn_out )
+;
+- NET: 15
+( im_psyched_VDD_INT_1_come_and_join_Qualcomm_2row_96python_578 conn_in )
+( DRIVERPIN_31 conn_out )
+;
