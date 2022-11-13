@@ -40,7 +40,9 @@ Simulated annealing (SA) is a probabilistic technique for approximating the glob
 
 This notion of slow cooling implemented in the simulated annealing algorithm is interpreted as a slow decrease in the probability of accepting worse solutions as the solution space is explored. Accepting worse solutions allows for a more extensive search for the global optimal solution.
 
-![image](https://user-images.githubusercontent.com/116063104/201519231-7c3779c8-316d-4cfa-bd4d-38798fed78d8.png)
+![image](https://user-images.githubusercontent.com/116063104/201519661-101d022f-40ab-4afb-b18f-07137d4fd9d0.png)
+![image](https://user-images.githubusercontent.com/116063104/201519667-5ddac87d-85eb-412d-b7a0-bfbf45bee981.png)
+
 
 
 Further Impovements(Multiprocessing):
